@@ -1,0 +1,10 @@
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\ResortCost\bin\Debug\ResortCost.exe.config
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\ResortCost\bin\Debug\ResortCost.exe
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\ResortCost\bin\Debug\ResortCost.pdb
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\ResortCost\obj\Debug\ResortCost.csproj.AssemblyReference.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\ResortCost\obj\Debug\ResortCost.frmResortCost.resources
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\ResortCost\obj\Debug\ResortCost.Properties.Resources.resources
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\ResortCost\obj\Debug\ResortCost.csproj.GenerateResource.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\ResortCost\obj\Debug\ResortCost.csproj.CoreCompileInputs.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\ResortCost\obj\Debug\ResortCost.exe
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\ResortCost\obj\Debug\ResortCost.pdb

@@ -1,0 +1,7 @@
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\TestScores\bin\Debug\TestScores.exe.config
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\TestScores\bin\Debug\TestScores.exe
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\TestScores\bin\Debug\TestScores.pdb
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\TestScores\obj\Debug\TestScores.csproj.AssemblyReference.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\TestScores\obj\Debug\TestScores.csproj.CoreCompileInputs.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\TestScores\obj\Debug\TestScores.exe
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\TestScores\obj\Debug\TestScores.pdb

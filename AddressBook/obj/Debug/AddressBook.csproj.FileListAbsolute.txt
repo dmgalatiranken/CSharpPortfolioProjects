@@ -1,0 +1,10 @@
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\AddressBook\bin\Debug\AddressBook.exe.config
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\AddressBook\bin\Debug\AddressBook.exe
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\AddressBook\bin\Debug\AddressBook.pdb
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\AddressBook\obj\Debug\AddressBook.csproj.AssemblyReference.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\AddressBook\obj\Debug\AddressBook.frmAddressBook.resources
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\AddressBook\obj\Debug\AddressBook.exe
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\AddressBook\obj\Debug\AddressBook.pdb

@@ -1,0 +1,16 @@
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\BankLogin\bin\Debug\net8.0-windows\BankLogin.exe
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\BankLogin\bin\Debug\net8.0-windows\BankLogin.deps.json
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\BankLogin\bin\Debug\net8.0-windows\BankLogin.runtimeconfig.json
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\BankLogin\bin\Debug\net8.0-windows\BankLogin.dll
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\BankLogin\bin\Debug\net8.0-windows\BankLogin.pdb
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\BankLogin\obj\Debug\net8.0-windows\BankLogin.frmBankLogin.resources
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\BankLogin\obj\Debug\net8.0-windows\BankLogin.csproj.GenerateResource.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\BankLogin\obj\Debug\net8.0-windows\BankLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\BankLogin\obj\Debug\net8.0-windows\BankLogin.AssemblyInfoInputs.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\BankLogin\obj\Debug\net8.0-windows\BankLogin.AssemblyInfo.cs
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\BankLogin\obj\Debug\net8.0-windows\BankLogin.csproj.CoreCompileInputs.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\BankLogin\obj\Debug\net8.0-windows\BankLogin.dll
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\BankLogin\obj\Debug\net8.0-windows\refint\BankLogin.dll
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\BankLogin\obj\Debug\net8.0-windows\BankLogin.pdb
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\BankLogin\obj\Debug\net8.0-windows\BankLogin.genruntimeconfig.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\BankLogin\obj\Debug\net8.0-windows\ref\BankLogin.dll

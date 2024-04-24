@@ -1,0 +1,10 @@
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\SongSearch\bin\Debug\SongSearch.exe.config
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\SongSearch\bin\Debug\SongSearch.exe
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\SongSearch\bin\Debug\SongSearch.pdb
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\SongSearch\obj\Debug\SongSearch.csproj.AssemblyReference.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\SongSearch\obj\Debug\SongSearch.frmSongSearch.resources
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\SongSearch\obj\Debug\SongSearch.Properties.Resources.resources
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\SongSearch\obj\Debug\SongSearch.csproj.GenerateResource.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\SongSearch\obj\Debug\SongSearch.csproj.CoreCompileInputs.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\SongSearch\obj\Debug\SongSearch.exe
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\SongSearch\obj\Debug\SongSearch.pdb

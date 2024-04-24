@@ -1,0 +1,10 @@
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\OrderValidator\bin\Debug\OrderValidator.exe.config
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\OrderValidator\bin\Debug\OrderValidator.exe
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\OrderValidator\bin\Debug\OrderValidator.pdb
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\OrderValidator\obj\Debug\OrderValidator.csproj.AssemblyReference.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\OrderValidator\obj\Debug\OrderValidator.OrderValidator.resources
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\OrderValidator\obj\Debug\OrderValidator.Properties.Resources.resources
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\OrderValidator\obj\Debug\OrderValidator.csproj.GenerateResource.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\OrderValidator\obj\Debug\OrderValidator.csproj.CoreCompileInputs.cache
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\OrderValidator\obj\Debug\OrderValidator.exe
+C:\Users\16366\Desktop\E-Portfolio\C# Work\Projects\OrderValidator\obj\Debug\OrderValidator.pdb
